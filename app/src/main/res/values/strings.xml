@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GSDemo</string>
+    <string name="sign_in">登录</string>
+    <string name="login_text_two">with your App ID</string>
+    <string name="hint_username">用户名</string>
+    <string name="hint_password">密&#160;&#8201;码</string>
+    <string name="sign_in_button">登&#160;&#160;&#160;录</string>
+    <string name="search_button">搜&#160;&#160;&#160;索</string>
+    <string name="forgot_text">忘记用户名或者密码?</string>
+    <string name="create_text">注册</string>
+    <string name="help_info">我们将验证您的手机号，用以确定为您本人操作</string>
+</resources>
